@@ -1,8 +1,16 @@
 # LGMVIP-Web-Development
 Virtual Internship Tasks
-LGM VIRTUAL INTERNSHIP PROGRAM 2021 - WEB DEVELOPMENT
-<li>BEGINNER LEVEL [TASK 1]</li>
+TASK-1 BEGINNER LEVEL TASK
+CREATE A SINGLE PAGE WEBSITE.
+This task is to determine your understanding  of HTML, CSS and Javascript skills along.
+IDE: Microsoft Visual Code Studio 
 
-<li>INTERMEDIATE LEVEL [TASK 2]</li>
 
-<li>ADVANCE LEVEL [TASK 3]</li>
+
+
+
+
+
+
+
+
